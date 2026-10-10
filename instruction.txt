@@ -1,0 +1,15 @@
+Stock Portfolio Tracker - Instructions
+======================================
+
+To run the project, use the following command in this directory:
+
+    python stock_portfolio_tracker.py
+
+Make sure Python is installed and available in your PATH.
+
+Features:
+- Add stocks by selecting ticker and entering quantity
+- View portfolio breakdown in a table
+- Sort by ticker, quantity, investment, or price
+- Export report to TXT or CSV
+- Clean GUI built with Tkinter
